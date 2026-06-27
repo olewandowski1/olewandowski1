@@ -21,7 +21,7 @@
 <!-- Write 2-4 sentences about yourself: your background, what you work on at SolDevelo, and what you're passionate about. -->
 
 
-Frontend Developer with 3+ years of experience and a deep passion for lean, performant UI/UX design. At SolDevelo, I focus on crafting efficient interfaces, modernizing open-source projects, and exploring cutting-edge technologies to build modern web solutions.
+Frontend Developer with 4+ years of experience and a deep passion for lean, performant UI/UX design. At SolDevelo, I focus on crafting efficient interfaces, modernizing open-source projects, and exploring cutting-edge technologies to build modern web solutions.
 
 ---
 
