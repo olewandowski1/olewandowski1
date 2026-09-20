@@ -6,7 +6,7 @@
   <br/><br/>
 
   # Hi, I'm Oliver
-  ### Frontend Developer @ SolDevelo
+  ### Software Developer @ SolDevelo
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleelewandowski)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olewandowski@soldevelo.com)
@@ -18,16 +18,22 @@
 
 ## About Me
 
-<!-- Write 2-4 sentences about yourself: your background, what you work on at SolDevelo, and what you're passionate about. -->
 
+Software Developer with 4+ years of experience and a deep passion for lean, performant UI/UX design. At SolDevelo, I focus on crafting efficient interfaces, modernizing open-source projects, and exploring cutting-edge technologies to build modern web solutions.
 
-Frontend Developer with 4+ years of experience and a deep passion for lean, performant UI/UX design. At SolDevelo, I focus on crafting efficient interfaces, modernizing open-source projects, and exploring cutting-edge technologies to build modern web solutions.
+---
+
+## What I'm Building
+
+[**7Ovr**](https://7ovr.com) is a registry of shadcn/ui blocks and page templates for
+React, built on Base UI and installed with the shadcn CLI. Over 580 blocks
+across 50+ categories, hundreds of them free.
+
+[Blocks](https://7ovr.com/blocks) | [Templates](https://7ovr.com/templates) | [Docs](https://7ovr.com/docs)
 
 ---
 
 ## Tech Stack
-
-<!-- Add or remove badges to match your actual stack. Generate badges at https://shields.io or pick from https://github.com/Ileriayo/markdown-badges -->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,7 +42,7 @@ Frontend Developer with 4+ years of experience and a deep passion for lean, perf
 
 ## Open-source Involvement
 
-<!-- List the open-source projects you contribute to or actively support. Add a short one-liner for each so visitors understand the context. Remove this section if it doesn't apply to you. -->
+Projects I contribute to through SolDevelo:
 
 | Project | Description |
 |---|---|
@@ -44,11 +50,15 @@ Frontend Developer with 4+ years of experience and a deep passion for lean, perf
 | [**OpenLMIS**](https://github.com/OpenLMIS) | Electronic Logistics Management Information System designed to manage health supply chains and vaccine distribution in low-resource settings |
 | [**OpenIMIS**](https://github.com/openimis/) | Software designed to manage health financing and social protection programs, such as insurance, cash transfers, and voucher schemes. |
 
+Projects of my own:
+
+| Project | Description |
+|---|---|
+| [**open-prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
+
 ---
 
 ## Services & Expertise
-
-<!-- OPTIONAL. Links to SolDevelo services/products you work on, contribute to, own or champion -->
 
 Looking to solve a specific challenge? Here's where I can help directly through SolDevelo:
 
