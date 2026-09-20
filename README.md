@@ -18,16 +18,16 @@
 
 ## About Me
 
-
 Software Developer with 4+ years of experience and a deep passion for lean, performant UI/UX design. At SolDevelo, I focus on crafting efficient interfaces, modernizing open-source projects, and exploring cutting-edge technologies to build modern web solutions.
 
 ---
 
 ## What I'm Building
 
-[**7Ovr**](https://7ovr.com) is a registry of shadcn/ui blocks and page templates for
-React, built on Base UI and installed with the shadcn CLI. Over 580 blocks
-across 50+ categories, hundreds of them free.
+| Project | Description |
+|---|---|
+| [**7Ovr**](https://7ovr.com) | A registry of shadcn/ui blocks and page templates for React, built on Base UI and installed with the shadcn CLI. Over 580 blocks across 50+ categories, hundreds of them free. |
+| [**open-prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
 
 [Blocks](https://7ovr.com/blocks) | [Templates](https://7ovr.com/templates) | [Docs](https://7ovr.com/docs)
 
@@ -40,7 +40,7 @@ across 50+ categories, hundreds of them free.
 
 ---
 
-## Open-source Involvement
+## Open-Source Involvement
 
 Projects I contribute to through SolDevelo:
 
@@ -49,12 +49,6 @@ Projects I contribute to through SolDevelo:
 | [**OpenMRS**](https://github.com/openmrs/) | Medical Records System designed for low-resource settings, supported and implemented by a global community of healthcare professionals, informaticists, and engineers. |
 | [**OpenLMIS**](https://github.com/OpenLMIS) | Electronic Logistics Management Information System designed to manage health supply chains and vaccine distribution in low-resource settings |
 | [**OpenIMIS**](https://github.com/openimis/) | Software designed to manage health financing and social protection programs, such as insurance, cash transfers, and voucher schemes. |
-
-Projects of my own:
-
-| Project | Description |
-|---|---|
-| [**open-prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
 
 ---
 
