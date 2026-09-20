@@ -25,20 +25,15 @@ Software Developer with 4+ years of experience and a deep passion for lean, perf
 
 ## What I'm Building
 
-<div align="center">
-  <a href="https://7ovr.com/" target="_blank">
-    <img src="./assets/7ovr-logo.png" alt="7Ovr" height="60" />
-  </a>
-</div>
-
 | Project | Description |
 |---|---|
 | [**7Ovr**](https://7ovr.com) | A registry of shadcn/ui blocks and page templates for React, built on Base UI and installed with the shadcn CLI. Over 580 blocks across 50+ categories, hundreds of them free. |
-| [**open-prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
+| [**Open Prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
 
 [![Blocks](https://img.shields.io/badge/Blocks-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKC02IDcgNykiLz48cmVjdCB4PSIzLjUiIHk9IjEzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDUgNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIxMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiB0cmFuc2Zvcm09InJvdGF0ZSgtNCAxNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDE1IDE3IDcpIi8+PC9zdmc+)](https://7ovr.com/blocks)
 [![Templates](https://img.shields.io/badge/Templates-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKC02IDcgNykiLz48cmVjdCB4PSIzLjUiIHk9IjEzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDUgNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIxMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiB0cmFuc2Zvcm09InJvdGF0ZSgtNCAxNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDE1IDE3IDcpIi8+PC9zdmc+)](https://7ovr.com/templates)
 [![Docs](https://img.shields.io/badge/Docs-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKC02IDcgNykiLz48cmVjdCB4PSIzLjUiIHk9IjEzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDUgNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIxMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiB0cmFuc2Zvcm09InJvdGF0ZSgtNCAxNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDE1IDE3IDcpIi8+PC9zdmc+)](https://7ovr.com/docs)
+[![Open Prospector](https://img.shields.io/badge/Open%20Prospector-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxjaXJjbGUgY3g9IjMyIiBjeT0iMzIiIHI9IjI2IiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1kYXNoYXJyYXk9IjEzMyAzMSIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ1IDMyIDMyKSIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iMzIiIHI9IjE4IiBzdHJva2Utd2lkdGg9IjMuMjUiIHN0cm9rZS1kYXNoYXJyYXk9Ijg5IDI1IiB0cmFuc2Zvcm09InJvdGF0ZSgtNDUgMzIgMzIpIi8+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMTAiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtZGFzaGFycmF5PSI0NSAxOCIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ1IDMyIDMyKSIvPjwvZz48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0LjUiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](https://github.com/olewandowski1/open-prospector)
 
 ---
 
