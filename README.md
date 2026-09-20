@@ -8,10 +8,10 @@
   # Hi, I'm Oliver
   ### Software Developer @ SolDevelo
 
-  [![7Ovr](https://img.shields.io/badge/7Ovr-7ovr.com-0a0a0a?style=for-the-badge)](https://7ovr.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleelewandowski)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olewandowski@soldevelo.com)
   [![SolDevelo](https://img.shields.io/badge/SolDevelo-Website-4A90D9?style=for-the-badge)](https://soldevelo.com/)
+  [![7ovr.com](https://img.shields.io/badge/7ovr.com-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKC02IDcgNykiLz48cmVjdCB4PSIzLjUiIHk9IjEzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDUgNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIxMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiB0cmFuc2Zvcm09InJvdGF0ZSgtNCAxNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDE1IDE3IDcpIi8+PC9zdmc+)](https://7ovr.com/)
 
 </div>
 
