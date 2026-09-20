@@ -58,12 +58,12 @@ Software Developer with 4+ years of experience and a deep passion for lean, perf
 
 Looking to solve a specific challenge? Here's where I can help directly through SolDevelo:
 
-- [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/) — End-to-end software built for your specific problem.
-- [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite.
-- [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/) — Identify and fix barriers that exclude users from your product.
+- [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/): End-to-end software built for your specific problem.
+- [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/): Bring legacy frontends up to modern standards without a full rewrite.
+- [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/): Identify and fix barriers that exclude users from your product.
 
 ---
 
 <div align="center">
-  <sub>Part of the <a href="https://soldevelo.com/">SolDevelo</a> team — building software that matters.</sub>
+  <sub>Part of the <a href="https://soldevelo.com/">SolDevelo</a> team, building software that matters.</sub>
 </div>
