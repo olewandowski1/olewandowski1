@@ -46,8 +46,6 @@ Software Developer with 4+ years of experience and a deep passion for lean, perf
 
 ## Open-Source Involvement
 
-Projects I contribute to through SolDevelo:
-
 | Project | Description |
 |---|---|
 | [**OpenMRS**](https://github.com/openmrs/) | Medical Records System designed for low-resource settings, supported and implemented by a global community of healthcare professionals, informaticists, and engineers. |
