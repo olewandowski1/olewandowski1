@@ -28,6 +28,8 @@ Software Developer with 4+ years of experience and a deep passion for lean, perf
 | Project | Description |
 |---|---|
 | [**7Ovr**](https://7ovr.com) | A registry of shadcn/ui blocks and page templates for React, built on Base UI and installed with the shadcn CLI. Over 580 blocks across 50+ categories, hundreds of them free. |
+| [**7Ovr Landing Starter**](https://landing.7ovr.com) | A free, open-source Next.js landing-page starter on shadcn/ui and Base UI. Every page is prerendered and crawlable, with complete SEO and one-command theming. MIT. |
+| [**7Ovr Vite Starter**](https://starter.7ovr.com) | A free, open-source Vite and React starter with TanStack Router, Query, Form and Table, shadcn/ui on Base UI and strict TypeScript. Tested, linted and optimized for coding agents. MIT. |
 | [**Open Prospector**](https://github.com/olewandowski1/open-prospector) | Local-first prospecting for independent businesses whose online presence shows a website opportunity. Evidence-backed, deterministic scoring, no API keys, no outreach. MIT. |
 
 [![Blocks](https://img.shields.io/badge/Blocks-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKC02IDcgNykiLz48cmVjdCB4PSIzLjUiIHk9IjEzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDUgNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIxMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiB0cmFuc2Zvcm09InJvdGF0ZSgtNCAxNyAxNykiLz48cmVjdCB4PSIxMy41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHRyYW5zZm9ybT0icm90YXRlKDE1IDE3IDcpIi8+PC9zdmc+)](https://7ovr.com/blocks)
